@@ -27,10 +27,9 @@ Martin Kleppma
 - for analytic it's better to keep the stream of data, for example in shopping cart, better to keep track if item is removed from cart.
 
 ### Fully precomputed caches
-no cold cache/warnming, no race condition
-
-Clients subscribe to materials views.
+- no cold cache/warnming, no race condition
+- Clients subscribe to materials views.
 - Request/response
 - Subscribe/notify
-    + Meteor, Firebase
+    - Meteor, Firebase
 - **Stream everywhere**
