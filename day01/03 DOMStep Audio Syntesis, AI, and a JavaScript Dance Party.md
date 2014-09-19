@@ -3,7 +3,7 @@ DOMStep: Audio Syntesis, AI, and JavaScript Dance Party
 
 @jergason
 
-## WebAPi
+## Web Audio API
 Example:
 
     var c = new AudioContext();
@@ -24,7 +24,7 @@ Sync to beat:
     
     beatEmitter
 
-setTimeout in WebAPI has its own clock.
+setTimeout in Web Audio API has its own clock.
 
 ## Wob
 (see picture)
