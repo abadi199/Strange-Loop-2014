@@ -7,7 +7,7 @@ Chris Williams
 ## Robotics 
 as simmple as a web page
 
-Javascript
+## Javascript for robotic
 - Naturl overlap: evented model ~= hardware interrupt
 - Hardware is single threaded
 
