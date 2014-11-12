@@ -13,7 +13,7 @@ Richard Feldman
 
 ## The App Cache
 
-    <html manifest="http://example.com/my-app.cache">
+`<html manifest="http://example.com/my-app.cache">
 
 - Application cache is a douchebag - Jake Archibald
 - cache manifest
