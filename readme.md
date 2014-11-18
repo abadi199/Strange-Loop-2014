@@ -1,7 +1,7 @@
 Strangeloop 2014
 ================
 
-![Strange Loop Logo](../raw/master/images/strangeLoop.png)
+![Strange Loop Logo](https://raw.githubusercontent.com/abadi199/Strange-Loop-2014/master/images/strangeLoop.png)
 
 Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.
 
