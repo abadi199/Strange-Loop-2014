@@ -12,14 +12,16 @@ Richard Feldman
     + no web server (static file on amazon s3)
 
 ## The App Cache
-
-    <html manifest="http://example.com/my-app.cache">
-
 - Application cache is a douchebag - Jake Archibald
 - cache manifest
     + cache: list of resources (pre-cache)
     + network: put * so if not available in the cache, will get it from the network
     + fallback: if resource is not available, specify the fallback file.
+
+<blockquote>
+    <html manifest="http://example.com/my-app.cache">
+</blockquote>
+
 
 ## Reading Files
 - FileReader API
