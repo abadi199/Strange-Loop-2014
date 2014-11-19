@@ -1,4 +1,4 @@
-Democritizing Hardware
+Democratizing Hardware
 ======================
 
 Chris Williams
