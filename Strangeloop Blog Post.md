@@ -43,7 +43,7 @@ The next talk is a very interesting and fun talk by ([Felienne Hermans](http://w
 I highly recommend for you to watch this talk.
 
 ## [PureScript or, what if brendan had been SPJ](http://youtu.be/yIlDBPiMb0o)
-This talk was presented by Bodil Stokke ([@bodil](https://twitter.com/bodil)), it was about Purescript, a haskell like language that compiles into JavaScript. If you really love Haskell syntax and wish JavaScript could be more like Haskell, than you should definitely give Purescript a try.
+The next talk was presented by Bodil Stokke ([@bodil](https://twitter.com/bodil)). It was about [Purescript](http://www.purescript.org/), a haskell like language that compiles into JavaScript. If you really love Haskell syntax and wish JavaScript could be more like Haskell, than you should definitely give Purescript a try.
 
 ---
 
