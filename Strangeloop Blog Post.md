@@ -17,7 +17,7 @@ One noteable speaker from this conference is Rich Hickey, the creator of Clojure
 
 The last talk of the conference was [Our Shared Joy of Programming](http://youtu.be/3_zW63dcZB0) by Carin Meier and Sam Aaron, a very inspirational talk which reminded me on why I love programming and why chose to be become a programmer in the first place. Oh, and also, there's this robot dance party!
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/KrZ8xV1jhv0" frameborder="0" allowfullscreen></iframe>
+[![Robot Dance Party](http://img.youtube.com/vi/KrZ8xV1jhv0/0.jpg)](http://youtu.be/KrZ8xV1jhv0)
 
 Here are summaries from some of the few talks that I really like:
 
