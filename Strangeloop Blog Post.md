@@ -1,7 +1,7 @@
 Strange Loop 2014
 =================
 
-A couple of developers (Joshua Bradley, Brian Dukes, and I) from Engage went to a conference here in St. Louis called Strange Loop on September 18 and 19, 2014. I have been a big fan of Strange Loop conference, and have attended 4 times before. If you don't know what Strange Loop is, here's a description from their website: 
+A couple of developers (Joshua Bradley, Brian Dukes, and I) from Engage went to a conference here in St. Louis called [Strange Loop](https://thestrangeloop.com/) on September 18 and 19, 2014. I have been a big fan of Strange Loop conference, and have attended 4 times before. If you don't know what Strange Loop is, here's a description from their website: 
 
 >Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.
 
@@ -44,5 +44,7 @@ I highly recommend for you to watch this talk.
 
 ## [PureScript or, what if brendan had been SPJ](http://youtu.be/yIlDBPiMb0o)
 This talk was presented by Bodil Stokke ([@bodil](https://twitter.com/bodil)), it was about Purescript, a haskell like language that compiles into JavaScript. If you really love Haskell syntax and wish JavaScript could be more like Haskell, than you should definitely give Purescript a try.
+
+---
 
 That's all I have on Strange Loop 2014. It's still my favorite conference, and I would recommend you to register for this conference next year. I'll see you at Strange Loop in 2015!
