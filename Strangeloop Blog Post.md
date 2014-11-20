@@ -38,7 +38,7 @@ This talk was presented by Pete Hunt ([@floydophone](https://twitter.com/floydop
 
 The next talk was a very awesome and fun talk by [Felienne Hermans](http://www.felienne.com). In her talk, she explained that spreadsheets (in this case Microsoft Excel) are actually a programming language and passed the Turing Test. She demoed writing a selection sort algorithm just using Excel, which is very mind blowing. She didn't use macros or VBA, only pure Excel functions and formulas. One of my favorite quotes from the talk is
 
->By thinking od spreadsheets as a programming language, we help spreadsheet users to think as programmers.
+>By thinking of spreadsheets as a programming language, we help spreadsheet users to think as programmers.
 
 I highly recommend that you watch this talk.
 
